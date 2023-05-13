@@ -21,7 +21,7 @@ const User = ({
           <span>{location}</span>
         </p>
       )}
-      <div className={classes.status}>
+      <div className={classes.stats}>
         <div>
           <p>Seguidores:</p>
           <p className={classes.number}>{followers}</p>
